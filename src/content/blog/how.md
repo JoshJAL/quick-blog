@@ -1,5 +1,5 @@
 ---
-title: "How I Built This Beautiful Website with Astro in 5 Minutes"
+title: "How I Built This Beautiful Blog Website with Astro in 5 Minutes"
 description: "I made this in 5 minutes and you can too!"
 pubDate: "Apr 28 2023"
 heroImage: "/placeholder-hero.jpg"
